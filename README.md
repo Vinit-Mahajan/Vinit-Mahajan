@@ -1,4 +1,4 @@
-**Welcome Geek No : ** ![Visitor Count](https : //profile-counter.glitch.me/{Vinit-Mahajan}/count.svg) **Started - Nov '24**
+Welcome Geek No : ![Visitor Count](https://profile-counter.glitch.me/{Vinit-Mahajan}/count.svg) Started - Nov '24
  
 ![GitHub followers](https://img.shields.io/github/followers/Vinit-Mahajan?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Vinit-Mahajan?style=social)
